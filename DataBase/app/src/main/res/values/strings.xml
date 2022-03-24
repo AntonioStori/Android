@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="et_code">Product Code</string>
+    <string name="et_description">Product Description</string>
+    <string name="et_price">Product Price</string>
+    <string name="btn_register">Register Product</string>
+    <string name="btn_search">Search Product</string>
+    <string name="btn_modify">Modify Product</string>
+    <string name="btn_delete">Delete Product</string>
+</resources>
