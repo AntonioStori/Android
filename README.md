@@ -35,6 +35,7 @@ Once you are in the application you want, select the "play" icon to run the app.
 * Bitacora - App to use SharedPreferences.
 * SD - App to store data in the sd card.
 * DataBase - App to learn about SQL in Android.
+* LinearLayout - App to learn how to organize elements in rows or columns.
 
 
 
