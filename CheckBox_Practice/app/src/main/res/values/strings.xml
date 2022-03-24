@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox_Practice</string>
+    <string name="txt_value1">Enter the first value</string>
+    <string name="txt_value2">Enter the second value</string>
+    <string name="txt_result">Result</string>
+    <string name="cb_add">Add</string>
+    <string name="cb_subtract">Subtract</string>
+    <string name="button">Calculate</string>
+</resources>

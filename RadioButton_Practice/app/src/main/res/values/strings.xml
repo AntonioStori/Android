@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton_Practice</string>
+    <string name="txt_value1">Enter the first number</string>
+    <string name="txt_value2">Enter the second number</string>
+    <string name="txt_result">Result</string>
+    <string name="rb_add">Add</string>
+    <string name="rb_subtract">Subtract</string>
+    <string name="rb_multiply">Multiply</string>
+    <string name="rb_divide">Divide</string>
+    <string name="btn">Calculate</string>
+</resources>

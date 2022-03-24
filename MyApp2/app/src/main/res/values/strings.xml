@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="txt_view_String">Teacher Status</string>
+    <string name="txt_maths_string">Math</string>
+    <string name="txt_physics_string">Physics</string>
+    <string name="txt_chemestry_string">Chemestry</string>
+    <string name="button">Evaluate</string>
+
+</resources>

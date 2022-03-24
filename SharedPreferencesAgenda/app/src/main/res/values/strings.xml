@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesAgenda</string>
+    <string name="et_name">Name</string>
+    <string name="et_data">Enter the data</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_search">Search</string>
+</resources>
