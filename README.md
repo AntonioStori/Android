@@ -38,7 +38,7 @@ Once you are in the application you want, select the "play" icon to run the app.
 * LinearLayout - App to learn how to organize elements in rows or columns.
 * TableLayout - App to learn how to organize elements in rows inside columns.
 * FrameLayout - App to learn how to organize elements.
-* ScrollView - App to learn how to use the ScrollView element.
+* ScrollView - App to learn how to use the ScrollView element integrating a small customization of icons and main colors.
 
 
 
