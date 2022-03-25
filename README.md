@@ -36,6 +36,8 @@ Once you are in the application you want, select the "play" icon to run the app.
 * SD - App to store data in the sd card.
 * DataBase - App to learn about SQL in Android.
 * LinearLayout - App to learn how to organize elements in rows or columns.
+* TableLayout - App to learn how to organize elements in rows inside columns.
+* FrameLayout - App to learn how to organize elements.
 
 
 
