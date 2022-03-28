@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repassword">Retype Password</string>
+    <string name="createAnAccount">Create an account</string>
+    <string name="existingUser">Existing user! Go to Sign In page</string>
+    <string name="signin">Sign In</string>
+</resources>
